@@ -14,6 +14,7 @@
 		E97CE18025677E5B008145B8 /* VKapp3_0.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E97CE17E25677E5B008145B8 /* VKapp3_0.xcdatamodeld */; };
 		E97CE18225677E5C008145B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E97CE18125677E5C008145B8 /* Assets.xcassets */; };
 		E97CE18525677E5C008145B8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E97CE18325677E5C008145B8 /* LaunchScreen.storyboard */; };
+		E97CE18E25677F93008145B8 /* VKRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = E97CE18D25677F93008145B8 /* VKRequest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E97CE18125677E5C008145B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E97CE18425677E5C008145B8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E97CE18625677E5C008145B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E97CE18D25677F93008145B8 /* VKRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VKRequest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				E97CE17525677E5B008145B8 /* AppDelegate.swift */,
+				E97CE18D25677F93008145B8 /* VKRequest.swift */,
 				E97CE17725677E5B008145B8 /* SceneDelegate.swift */,
 				E97CE17925677E5B008145B8 /* ViewController.swift */,
 				E97CE17B25677E5B008145B8 /* Main.storyboard */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E97CE17A25677E5B008145B8 /* ViewController.swift in Sources */,
+				E97CE18E25677F93008145B8 /* VKRequest.swift in Sources */,
 				E97CE18025677E5B008145B8 /* VKapp3_0.xcdatamodeld in Sources */,
 				E97CE17625677E5B008145B8 /* AppDelegate.swift in Sources */,
 				E97CE17825677E5B008145B8 /* SceneDelegate.swift in Sources */,
